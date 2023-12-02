@@ -29,7 +29,7 @@ const Hero = () => (
           The Next <br className="sm:block 
           hidden"/> {" "}
           <span className="text-gradient">Generation</
-          span> <br className="sm:block 
+          span> <br className="sm:hidden 
           hidden"/>
 
         </h1>
